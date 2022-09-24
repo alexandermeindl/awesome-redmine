@@ -1,4 +1,4 @@
-# Awesome Redmine [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Redmine [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Run Tests](https://github.com/alexandermeindl/awesome-redmine/actions/workflows/awesomebot.yml/badge.svg)](https://github.com/alexandermeindl/awesome-redmine/actions/workflows/awesomebot.yml)
 
 [Redmine](https://www.redmine.org/) is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
 
@@ -19,6 +19,7 @@
     - [Active Themes](#active-themes)
     - [Inactive Themes](#inactive-themes)
     - [Commercial Themes](#commercial-themes)
+  - [Redmine Gems](#redmine-gems)
   - [Hosting](#hosting)
   - [Redmine based services](#redmine-based-services)
   - [Contributing](#contributing)
@@ -48,14 +49,21 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [redmine_drawio](https://www.redmine.org/plugins/redmine_drawio) - Macro plugin to embed draw.io diagrams into Redmine wiki pages.
 - [redmine_issue_view_columns](https://github.com/AlphaNodes/redmine_issue_view_columns) - Redmine plugin to customize shown columns in subtasks and related issues on issue page.
 - [redmine_issue_template](https://github.com/agileware-jp/redmine_issue_templates) - Redmine Issue Template.
+- [redmine_hedgedoc](https://github.com/AlphaNodes/redmine_hedgedoc) - HedgeDoc integration
 - [redmine_messenger](https://github.com/AlphaNodes/redmine_messenger) - Messenger plugin for Redmine with Slack, Discord, Rocket.Chat and Mattermost support.
+- [redmine_privacy_terms](https://github.com/alphanodes/redmine_privacy_terms) - Redmine plugin to add privacy cookie information and terms for users to Redmine.
+- [redmine_ref_issues](https://github.com/alphanodes/redmine_ref_issues) - Redmine wiki macro to list issues.
+- [redmine_sudo](https://github.com/alphanodes/redmine_sudo) - Sudo for Redmine - work without administrator permission, and switch to it if needed.
 - [redmine_wktime](https://github.com/dhanasingh/redmine_wktime) - ERPmine is an open source free ERP for Service Industries.
 - [redmine_workload](https://github.com/xmera-circle/redmine_workload) - Calculate user workload over time.
 - [redmine_wysiwyg_editor](https://github.com/taqueci/redmine_wysiwyg_editor) - Redmine WYSIWYG Editor plugin.
+- [view_customize](https://github.com/onozaty/redmine-view-customize) - View customize plugin for Redmine
 
 ### Inactive Plugins
 
 _Plugins, which are not working with the latest stable Redmine version or have not been updated in the last year._
+
+- [redmine_git_hosting](https://github.com/jbox-web/redmine_git_hosting) - A Redmine plugin which makes configuring your own Git hosting easy.
 
 ### Commercial Plugins
 
@@ -67,8 +75,11 @@ _Plugins, which are provided by companies and not downloadable without a license
 - [redmine_contacts](https://www.redmineup.com/pages/plugins/crm) - Contacts, accounts and deals management inside projects.
 - [redmine_contacts_helpdesk](https://www.redmineup.com/pages/plugins/helpdesk) - Management of Support tickets inside Issues.
 - [redmine_drive](https://www.redmineup.com/pages/plugins/drive) - Cloud file storage with sharing for clients and employees without authorization.
+- [redmine_hrm](https://alphanodes.com/redmine-hrm) - Resource planning for flexible or agile project teams.
 - [redmine_outlook](https://www.ahausoftware.com/redmine-outlook) - This is deeply integrated addition for Microsoft Outlook that makes it possible to sync issues, projects, contacts and calendar, as well as to get quick access to attachments and messages on your Redmine account.
+- [redmine_questions](https://www.redmineup.com/pages/plugins/questions) - Create FAQ, Q&A, knowledge bases and idea reporting pages
 - [redmine_resources](https://www.redmineup.com/pages/plugins/resources) - Resource allocation management for Redmine.
+- [redmine_wiki_guide](https://alphanodes.com/redmine-wiki-guide) - Turn your Redmine Wiki into a perfect self-service portal.
 
 ## Themes
 
@@ -83,6 +94,13 @@ _Themes, which are working with old Redmine versions or not under active develop
 ### Commercial Themes
 
 _Themes, which are provided by companies and not downloadable without a license or without login or without require an email address to download. Themes without public code repository._
+
+## Redmine Gems
+
+_Gems, which are used in plugins with Redmine specific functionality._
+
+- [redmine_crm](https://rubygems.org/gems/redmine_crm/) - used by RedmineUP plugins
+- [redmine_plugin_kit](https://rubygems.org/gems/redmine_plugin_kit) - Redmine base for plugin development including deface support.
 
 ## Hosting
 
