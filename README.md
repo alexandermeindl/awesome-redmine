@@ -76,7 +76,7 @@ _Plugins, which are provided by companies and not downloadable without a license
 - [redmine_contacts_helpdesk](https://www.redmineup.com/pages/plugins/helpdesk) - Management of Support tickets inside Issues.
 - [redmine_drive](https://www.redmineup.com/pages/plugins/drive) - Cloud file storage with sharing for clients and employees without authorization.
 - [redmine_hrm](https://alphanodes.com/redmine-hrm) - Resource planning for flexible or agile project teams.
-- [redmine_outlook](https://www.ahausoftware.com/redmine-outlook) - This is deeply integrated addition for Microsoft Outlook that makes it possible to sync issues, projects, contacts and calendar, as well as to get quick access to attachments and messages on your Redmine account.
+- [redmine_outlook](https://www.redmine.org/plugins/redmine-outlook-addin) - This is deeply integrated addition for Microsoft Outlook that makes it possible to sync issues, projects, contacts and calendar, as well as to get quick access to attachments and messages on your Redmine account.
 - [redmine_questions](https://www.redmineup.com/pages/plugins/questions) - Create FAQ, Q&A, knowledge bases and idea reporting pages
 - [redmine_resources](https://www.redmineup.com/pages/plugins/resources) - Resource allocation management for Redmine.
 - [redmine_wiki_guide](https://alphanodes.com/redmine-wiki-guide) - Turn your Redmine Wiki into a perfect self-service portal.

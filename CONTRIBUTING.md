@@ -12,9 +12,9 @@ Unfortunately, not every library/tool/framework can be considered. This list aim
 
 Suggested software must also be developer-friendly, which means it meets the following criteria:
 
-(i) If an open source _application_, it is licensed under one of the open source licenses listed on https://opensource.org/licenses.
+(i) If an open source _application_, it is licensed under one of the open source licenses listed on <https://opensource.org/licenses>.
 
-(ii) If an open source _library_, it is licensed under one of the open source licenses listed on https://opensource.org/licenses, with the exception of GPL and AGPL (due to their viral nature).
+(ii) If an open source _library_, it is licensed under one of the open source licenses listed on <https://opensource.org/licenses>, with the exception of GPL and AGPL (due to their viral nature).
 
 (iii) If commercial, it has clear pricing and at least one free tier.
 
