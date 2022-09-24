@@ -41,6 +41,8 @@ Furthermore, please ensure your pull request follows the following guidelines:
 - Please search previous suggestions before making a new one, as yours may be a duplicate.
 - Please make an individual pull request for each suggestion.
 - Use the following format for libraries: \[LIBRARY\]\(LINK\) - DESCRIPTION.
+- If it's a commercial plugin or theme, use the provided category for it.
+- If it's a plugin, use the plugin identifier as title.
 - Entries should be sorted in ascending alphabetical order, i.e. a to z.
 - New categories or improvements to the existing categorization are welcome.
 - Keep descriptions short, simple and unbiased.
