@@ -2,7 +2,7 @@
 
 [Redmine](https://www.redmine.org/) is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
 
-[Redmine](https://www.redmine.org/) is open source and released under the terms of the [GNU General Public License v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) (GPL).
+Redmine is open source and released under the terms of the [GNU General Public License v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) (GPL).
 
 >A curated list of awesome Redmine resources, plugins, themes and services.
 
@@ -21,7 +21,7 @@
     - [Commercial Themes](#commercial-themes)
   - [Redmine Gems](#redmine-gems)
   - [Hosting](#hosting)
-  - [Redmine based services](#redmine-based-services)
+  - [Redmine based web services](#redmine-based-web-services)
   - [Contributing](#contributing)
 
 ## Official resources
@@ -97,7 +97,7 @@ _Themes, which are provided by companies and not downloadable without a license 
 
 ## Redmine Gems
 
-_Gems, which are used in plugins with Redmine specific functionality._
+_Gems, which are used in plugins with Redmine specific functionalities. Used by plugin developers._
 
 - [redmine_crm](https://rubygems.org/gems/redmine_crm/) - used by RedmineUP plugins
 - [redmine_plugin_kit](https://rubygems.org/gems/redmine_plugin_kit) - Redmine base for plugin development including deface support.
@@ -107,9 +107,9 @@ _Gems, which are used in plugins with Redmine specific functionality._
 - [AlphaNodes](https://alphanodes.com/)
 - [RedmineUP](https://www.redmineup.com/) - Russian based Redmine company with offer Redmine hosting.
 - [Docker: redmine](https://hub.docker.com/_/redmine)
-- [Docker: sameersbn/redmine:5.0.2](https://github.com/sameersbn/docker-redmine)
+- [Docker: sameersbn/redmine](https://github.com/sameersbn/docker-redmine)
 
-## Redmine based services
+## Redmine based web services
 
 - [Easy Redmine](https://www.easyredmine.com/)
 - [Planio](https://plan.io)
@@ -125,6 +125,6 @@ _Gems, which are used in plugins with Redmine specific functionality._
 
 Contributions are very welcome!
 
-Please have a look at the [CONTRIBUTING](https://github.com/alexandermeindl/awesome-redmine/blob/master/CONTRIBUTING.md) guidelines.
+Please have a look at the [CONTRIBUTING](https://github.com/alexandermeindl/awesome-redmine/blob/main/CONTRIBUTING.md) guidelines.
 
 [c]: https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg
