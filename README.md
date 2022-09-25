@@ -20,6 +20,7 @@ Redmine is open source and released under the terms of the [GNU General Public L
     - [Inactive Themes](#inactive-themes)
     - [Commercial Themes](#commercial-themes)
   - [Redmine Gems](#redmine-gems)
+  - [API wrapper](#api_wrapper)
   - [Hosting](#hosting)
   - [Redmine based web services](#redmine-based-web-services)
   - [Books](#books)
@@ -50,9 +51,13 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [redmine_dashboard](https://github.com/jgraichen/redmine_dashboard) - This redmine plugin adds an issue dashboard that supports drag and drop for issues and support various filters and groups.
 - [redmine_dmsf](https://github.com/danmunn/redmine_dmsf) - Redmine DMSF is Document Management System Features plugin for Redmine issue tracking system; It is aimed to replace current Redmine's Documents module.
 - [redmine_drawio](https://www.redmine.org/plugins/redmine_drawio) - Macro plugin to embed draw.io diagrams into Redmine wiki pages.
+- [redmine_github_hook](https://github.com/koppen/redmine_github_hook) - Allow your Redmine installation to be notified when changes have been pushed to a Github repository.
+- [redmine_hedgedoc](https://github.com/AlphaNodes/redmine_hedgedoc) - HedgeDoc integration.
+- [redmine_helpdesk](https://github.com/jfqd/redmine_helpdesk) - Lightweight helpdesk plugin for redmine.
+- [redmine_issues_tree](https://github.com/Loriowar/redmine_issues_tree) - Provides a tree view of the Redmine issues list.
 - [redmine_issue_view_columns](https://github.com/AlphaNodes/redmine_issue_view_columns) - Redmine plugin to customize shown columns in subtasks and related issues on issue page.
 - [redmine_issue_template](https://github.com/agileware-jp/redmine_issue_templates) - Redmine Issue Template.
-- [redmine_hedgedoc](https://github.com/AlphaNodes/redmine_hedgedoc) - HedgeDoc integration
+- [redmine_lightbox](https://github.com/AlphaNodes/redmine_lightbox) - Lightbox for image attachments in Redmine
 - [redmine_messenger](https://github.com/AlphaNodes/redmine_messenger) - Messenger plugin for Redmine with Slack, Discord, Rocket.Chat and Mattermost support.
 - [redmine_privacy_terms](https://github.com/alphanodes/redmine_privacy_terms) - Redmine plugin to add privacy cookie information and terms for users to Redmine.
 - [redmine_ref_issues](https://github.com/alphanodes/redmine_ref_issues) - Redmine wiki macro to list issues.
@@ -60,13 +65,14 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [redmine_wktime](https://github.com/dhanasingh/redmine_wktime) - ERPmine is an open source free ERP for Service Industries.
 - [redmine_workload](https://github.com/xmera-circle/redmine_workload) - Calculate user workload over time.
 - [redmine_wysiwyg_editor](https://github.com/taqueci/redmine_wysiwyg_editor) - Redmine WYSIWYG Editor plugin.
-- [view_customize](https://github.com/onozaty/redmine-view-customize) - View customize plugin for Redmine
+- [view_customize](https://github.com/onozaty/redmine-view-customize) - View customize plugin for Redmine.
 
 ### Inactive Plugins
 
 _Plugins, which are not working with the latest stable Redmine version or have not been updated in the last year._
 
 - [redmine_git_hosting](https://github.com/jbox-web/redmine_git_hosting) - A Redmine plugin which makes configuring your own Git hosting easy.
+- [redmine_ldap_sync](https://github.com/tainewoo/redmine_ldap_sync) - A redmine plugin to synchronize both users and groups with an ldap server.
 
 ### Commercial Plugins
 
@@ -118,6 +124,12 @@ _Gems, which are used in plugins with Redmine specific functionalities. Used by 
 
 - [redmine_crm](https://rubygems.org/gems/redmine_crm/) - used by RedmineUP plugins
 - [redmine_plugin_kit](https://rubygems.org/gems/redmine_plugin_kit) - Redmine base for plugin development including deface support.
+
+## API wrapper
+
+- [php-redmine-api](https://github.com/kbsali/php-redmine-api) - A simple PHP Redmine API client, Object Oriented.
+- [python-redmine](https://github.com/maxtepkeev/python-redmine) - Python Redmine is a library for communicating with a Redmine project management application.
+- [redmine-net-api](https://github.com/zapadi/redmine-net-api) - .Net API for Redmine bug/task management systems.
 
 ## Hosting
 
