@@ -24,6 +24,7 @@ Redmine is open source and released under the terms of the [GNU General Public L
   - [Hosting](#hosting)
   - [Redmine based web services](#redmine-based-web-services)
   - [Books](#books)
+  - [Other channels](#other-channels]
   - [Third Party Redmine integrations](#third-party-redmine-integrations)
   - [Contributing](#contributing)
 
@@ -46,6 +47,7 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [additionals](https://github.com/alphanodes/additionals) - Redmine plugin for easy customization of settings, text and content display by using personal or role-based dashboards (drag&drop), providing wiki macros and act as library for other plugins.
 - [additional_tags](https://github.com/AlphaNodes/additional_tags) - Adding tags functionality to issues and wiki pages as well as entities of supported plugins.
 - [kanban](hhttps://github.com/happy-se-life/kanban) - Kanban plugin for redmine.
+- [mega_calendar](https://github.com/berti92/mega_calendar) - Brings a better calendar and more opportunities to display issues and holidays.
 - [redmine_banner](https://github.com/agileware-jp/redmine_banner) - Plugin for redmine to show site-wide banner message.
 - [redmine_custom_workflows](https://github.com/anteo/redmine_custom_workflows) - Allows to create custom workflows for Redmine.
 - [redmine_dashboard](https://github.com/jgraichen/redmine_dashboard) - This redmine plugin adds an issue dashboard that supports drag and drop for issues and support various filters and groups.
@@ -140,6 +142,7 @@ _Redmine hosting providers divided by country of origin._
 - [Docker: redmine](https://hub.docker.com/_/redmine)
 - [Docker: sameersbn/redmine](https://github.com/sameersbn/docker-redmine)
 - [Redmine Hosting](https://www.redmine-hosting.de/) - German based company offering Redmine Hosting packages.
+- [RedminePRO](https://redminepro.com/pricing/) - Indian based Redmine Hosting company offering cloud packages.
 - [RedmineUP](https://www.redmineup.com/) - Russian based Redmine company with offer Redmine cloud hosting.
 - [RoseHosting](https://www.rosehosting.com/redmine-hosting/) - American based hosting company, offering Redmine cloud packages.
 
@@ -158,6 +161,13 @@ _Books to learn more about Redmine (usage, configuration, development etc.)._
 - [Redmine Buch - Praxishandbuch](https://alphanodes.com/de/redmine-buch) - (DE, published 2022)
 - [Redmine Plugin Extension and Development](https://www.packtpub.com/product/redmine-plugin-extension-and-development/9781783288748) (EN, published 2014)
 - [Redmine - Gerenciamento flexível de projetos](https://www.casadocodigo.com.br/products/livro-redmine) (BR, published 2019)
+
+## Other channels
+
+_Other channels on learning more about Redmine._
+
+- [Redmine on Reddit](https://www.reddit.com/r/redmine/)
+- [Redmine on Stackoverflow](https://stackoverflow.com/questions/tagged/redmine)
 
 ## Third Party Redmine integrations
 
