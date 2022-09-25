@@ -73,11 +73,15 @@ _Plugins, which are provided by companies and not downloadable without a license
 - [redmine_automation](https://alphanodes.com/redmine-automation) - Use rules and time schedules to automate routine tasks and optimize existing data volumes.
 - [redmine_checklists](https://www.redmineup.com/pages/plugins/checklists) - Simple, yet powerful checklists for issues.
 - [redmine_contacts](https://www.redmineup.com/pages/plugins/crm) - Contacts, accounts and deals management inside projects.
-- [redmine_contacts_helpdesk](https://www.redmineup.com/pages/plugins/helpdesk) - Management of Support tickets inside Issues.
+- [redmine_contacts_helpdesk](https://www.redmineup.com/pages/plugins/helpdesk) - Management of Support tickets inside Issues.- 
+- [redmine_db](https://alphanodes.com/redmine-db) - Alternative for excel listings in order to catch up on project relevant information stored inside Redmine like technical information, contract 
+- [redmine_devops](https://alphanodes.com/redmine-devops) - DevOp tools connection to Redmine (supports GitLab, GitHub, Jenkins, Zabbix, third party Redmine systems).
 - [redmine_drive](https://www.redmineup.com/pages/plugins/drive) - Cloud file storage with sharing for clients and employees without authorization.
 - [redmine_hrm](https://alphanodes.com/redmine-hrm) - Resource planning for flexible or agile project teams.
 - [redmine_outlook](https://www.redmine.org/plugins/redmine-outlook-addin) - This is deeply integrated addition for Microsoft Outlook that makes it possible to sync issues, projects, contacts and calendar, as well as to get quick access to attachments and messages on your Redmine account.
+- [redmine_passwords](https://alphanodes.com/redmine-passwords) - Centralized password management tool to manage and share sensitive data within project teams.
 - [redmine_questions](https://www.redmineup.com/pages/plugins/questions) - Create FAQ, Q&A, knowledge bases and idea reporting pages
+- [redmine_reporting](https://alphanodes.com/redmine-reporting) - Extended insights for decision makers, Stakeholder or project manager in order to monitor project relevant metrics like issue SLA, budget, mile stones etc.
 - [redmine_resources](https://www.redmineup.com/pages/plugins/resources) - Resource allocation management for Redmine.
 - [redmine_wiki_guide](https://alphanodes.com/redmine-wiki-guide) - Turn your Redmine Wiki into a perfect self-service portal.
 
@@ -87,13 +91,23 @@ _Plugins, which are provided by companies and not downloadable without a license
 
 _Themes, which are working with the latest stable Redmine 5 version and under active development._
 
+[redmine-theme-minimalflat2](https://github.com/akabekobeko/redmine-theme-minimalflat2) - Minimal and flat theme for Redmine.
+
 ### Inactive Themes
 
 _Themes, which are working with old Redmine versions or not under active development._
 
+[flatly_light_redmine](https://github.com/Nitrino/flatly_light_redmine) - Flatly light redmine theme.
+[PurpleMine2](https://github.com/mrliptontea/PurpleMine2) - A free Redmine theme for modern browsers.
+[redmine-theme-gitmike](https://github.com/makotokw/redmine-theme-gitmike) - A github-like Theme for Redmine.
+
 ### Commercial Themes
 
 _Themes, which are provided by companies and not downloadable without a license or without login or without require an email address to download. Themes without public code repository._
+
+- [Abacusmine](https://www.abacusthemes.com/) - Responsive Theme for latest Redmine versions.
+- [Boostmine](https://bestredminetheme.com/boostmine/) - Colorful, bold, corporate and responsive Theme for Redmine, which is customizable to your needs.
+- [Zenmine](https://bestredminetheme.com/zenmine-redmine-theme/) - Minimal, plain, clear, responsive Theme for Redmine, which supports several plugins.
 
 ## Redmine Gems
 
@@ -104,8 +118,9 @@ _Gems, which are used in plugins with Redmine specific functionalities. Used by 
 
 ## Hosting
 
-- [AlphaNodes](https://alphanodes.com/)
-- [RedmineUP](https://www.redmineup.com/) - Russian based Redmine company with offer Redmine hosting.
+- [AlphaNodes](https://alphanodes.com/) - German based company offering Redmine managed application hosting (InHouse or Cloud).
+- [Redmine Hosting](https://www.redmine-hosting.de/) - German based company offering Redmine Hosting packages.
+- [RedmineUP](https://www.redmineup.com/) - Russian based Redmine company with offer Redmine cloud hosting.
 - [Docker: redmine](https://hub.docker.com/_/redmine)
 - [Docker: sameersbn/redmine](https://github.com/sameersbn/docker-redmine)
 
