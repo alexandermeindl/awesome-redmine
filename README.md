@@ -23,7 +23,7 @@ Redmine is open source and released under the terms of the [GNU General Public L
   - [Hosting](#hosting)
   - [Redmine based web services](#redmine-based-web-services)
   - [Books](#books)
-  - [Third Party Redmine integrations)(#third-party-redmine-integrations)
+  - [Third Party Redmine integrations](#third-party-redmine-integrations)
   - [Contributing](#contributing)
 
 ## Official resources
