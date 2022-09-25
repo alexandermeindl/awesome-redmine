@@ -121,6 +121,8 @@ _Gems, which are used in plugins with Redmine specific functionalities. Used by 
 
 ## Hosting
 
+_Redmine hosting providers divided by country of origin._
+
 - [AlphaNodes](https://alphanodes.com/) - German based company offering Redmine managed application hosting (InHouse or Cloud).
 - [Redmine Hosting](https://www.redmine-hosting.de/) - German based company offering Redmine Hosting packages.
 - [RedmineUP](https://www.redmineup.com/) - Russian based Redmine company with offer Redmine cloud hosting.
@@ -133,6 +135,8 @@ _Gems, which are used in plugins with Redmine specific functionalities. Used by 
 - [Planio](https://plan.io)
 
 ## Books
+
+_Books to learn more about Redmine (usage, configuration, development etc.)._
 
 - [Konfigurationsmanagement mit Subversion, Maven und Redmine](https://dpunkt.de/produkt/konfigurationsmanagement-mit-subversion-maven-und-redmine/) (DE, published 2013)
 - [Mastering Redmine - Second Edition](https://www.packtpub.com/product/mastering-redmine-second-edition/9781785881305) (EN, published 2016)
