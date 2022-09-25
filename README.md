@@ -22,6 +22,8 @@ Redmine is open source and released under the terms of the [GNU General Public L
   - [Redmine Gems](#redmine-gems)
   - [Hosting](#hosting)
   - [Redmine based web services](#redmine-based-web-services)
+  - [Books](#books)
+  - [Third Party Redmine integrations)(#third-party-redmine-integrations)
   - [Contributing](#contributing)
 
 ## Official resources
@@ -30,6 +32,7 @@ Redmine is open source and released under the terms of the [GNU General Public L
 - [Download](https://www.redmine.org/projects/redmine/wiki/Download)
 - [Git](https://github.com/redmine/redmine)
 - [Plugins directory](https://www.redmine.org/plugins?page=1&sort=rating)
+- [Redmine API](https://www.redmine.org/projects/redmine/wiki/rest_api)
 
 ## Plugins
 
@@ -91,15 +94,15 @@ _Plugins, which are provided by companies and not downloadable without a license
 
 _Themes, which are working with the latest stable Redmine 5 version and under active development._
 
-[redmine-theme-minimalflat2](https://github.com/akabekobeko/redmine-theme-minimalflat2) - Minimal and flat theme for Redmine.
+- [redmine-theme-minimalflat2](https://github.com/akabekobeko/redmine-theme-minimalflat2) - Minimal and flat theme for Redmine.
 
 ### Inactive Themes
 
 _Themes, which are working with old Redmine versions or not under active development._
 
-[flatly_light_redmine](https://github.com/Nitrino/flatly_light_redmine) - Flatly light redmine theme.
-[PurpleMine2](https://github.com/mrliptontea/PurpleMine2) - A free Redmine theme for modern browsers.
-[redmine-theme-gitmike](https://github.com/makotokw/redmine-theme-gitmike) - A github-like Theme for Redmine.
+- [flatly_light_redmine](https://github.com/Nitrino/flatly_light_redmine) - Flatly light redmine theme.
+- [PurpleMine2](https://github.com/mrliptontea/PurpleMine2) - A free Redmine theme for modern browsers.
+- [redmine-theme-gitmike](https://github.com/makotokw/redmine-theme-gitmike) - A github-like Theme for Redmine.
 
 ### Commercial Themes
 
@@ -137,6 +140,14 @@ _Gems, which are used in plugins with Redmine specific functionalities. Used by 
 - [Redmine Buch - Praxishandbuch](https://alphanodes.com/de/redmine-buch) - (DE, published 2022)
 - [Redmine Plugin Extension and Development](https://www.packtpub.com/product/redmine-plugin-extension-and-development/9781783288748) (EN, published 2014)
 - [Redmine - Gerenciamento flexível de projetos](https://www.casadocodigo.com.br/products/livro-redmine) (BR, published 2019)
+
+## Third Party Redmine integrations
+
+_Third party applications that integrate with Redmine._
+
+- [GitLab documentation on external issue tracker Redmine](https://docs.gitlab.com/ee/user/project/integrations/redmine.html)
+- [LambdaTest documention on Redmine integration](https://www.lambdatest.com/support/docs/redmine-integration/)
+- [Test Rail documentation on integrate with Redmine](https://support.gurock.com/hc/en-us/articles/7689725559188-Integrate-with-Redmine)
 
 ## Contributing
 
