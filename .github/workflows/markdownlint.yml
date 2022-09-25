@@ -1,4 +1,4 @@
-name: Awesome Bot
+name: markdownlint
 on:
   push:
   pull_request:
