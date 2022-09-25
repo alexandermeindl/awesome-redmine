@@ -24,7 +24,7 @@ Redmine is open source and released under the terms of the [GNU General Public L
   - [Hosting](#hosting)
   - [Redmine based web services](#redmine-based-web-services)
   - [Books](#books)
-  - [Other channels](#other-channels]
+  - [Other channels](#other-channels)
   - [Third Party Redmine integrations](#third-party-redmine-integrations)
   - [Contributing](#contributing)
 
@@ -173,6 +173,7 @@ _Other channels on learning more about Redmine._
 
 _Third party applications that integrate with Redmine._
 
+- [Drupal Integration with Redmine](https://drupalintegration.com/app/redmine)
 - [GitLab documentation on external issue tracker Redmine](https://docs.gitlab.com/ee/user/project/integrations/redmine.html)
 - [LambdaTest documention on Redmine integration](https://www.lambdatest.com/support/docs/redmine-integration/)
 - [Test Rail documentation on integrate with Redmine](https://support.gurock.com/hc/en-us/articles/7689725559188-Integrate-with-Redmine)
