@@ -45,18 +45,14 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [redmine_banner](https://github.com/agileware-jp/redmine_banner) - Plugin for redmine to show site-wide banner message.
 - [redmine_custom_workflows](https://github.com/anteo/redmine_custom_workflows) - Allows to create custom workflows for Redmine.
 - [redmine_dashboard](https://github.com/jgraichen/redmine_dashboard) - This redmine plugin adds an issue dashboard that supports drag and drop for issues and support various filters and groups.
-- [redmine_db](https://alphanodes.com/redmine-db) - Alternative for excel listings in order to catch up on project relevant information stored inside Redmine like technical information, contract information, licences etc.
 - [redmine_dmsf](https://github.com/danmunn/redmine_dmsf) - Redmine DMSF is Document Management System Features plugin for Redmine issue tracking system; It is aimed to replace current Redmine's Documents module.
-- [redmine_devops](https://alphanodes.com/redmine-devops) - DevOp tools connection to Redmine (supports GitLab, GitHub, Jenkins, Zabbix, third party Redmine systems).
 - [redmine_drawio](https://www.redmine.org/plugins/redmine_drawio) - Macro plugin to embed draw.io diagrams into Redmine wiki pages.
 - [redmine_issue_view_columns](https://github.com/AlphaNodes/redmine_issue_view_columns) - Redmine plugin to customize shown columns in subtasks and related issues on issue page.
 - [redmine_issue_template](https://github.com/agileware-jp/redmine_issue_templates) - Redmine Issue Template.
 - [redmine_hedgedoc](https://github.com/AlphaNodes/redmine_hedgedoc) - HedgeDoc integration
 - [redmine_messenger](https://github.com/AlphaNodes/redmine_messenger) - Messenger plugin for Redmine with Slack, Discord, Rocket.Chat and Mattermost support.
-- [redmine_passwords](https://alphanodes.com/redmine-passwords) - Centralized password management tool to manage and share sensitive data within project teams.
 - [redmine_privacy_terms](https://github.com/alphanodes/redmine_privacy_terms) - Redmine plugin to add privacy cookie information and terms for users to Redmine.
 - [redmine_ref_issues](https://github.com/alphanodes/redmine_ref_issues) - Redmine wiki macro to list issues.
-- [redmine_reporting](https://alphanodes.com/redmine-reporting) - Extended insights for decision makers, Stakeholder or project manager in order to monitor project relevant metrics like issue SLA, budget, mile stones etc.
 - [redmine_sudo](https://github.com/alphanodes/redmine_sudo) - Sudo for Redmine - work without administrator permission, and switch to it if needed.
 - [redmine_wktime](https://github.com/dhanasingh/redmine_wktime) - ERPmine is an open source free ERP for Service Industries.
 - [redmine_workload](https://github.com/xmera-circle/redmine_workload) - Calculate user workload over time.
@@ -135,10 +131,12 @@ _Gems, which are used in plugins with Redmine specific functionalities. Used by 
 
 ## Books
 
-- [Mastering Redmine - Second Edition](https://www.packtpub.com/product/mastering-redmine-second-edition/9781785881305) (published 2016)
-- [Redmine Cookbook](https://www.packtpub.com/product/redmine-cookbook/9781785286131) (published 2016)
-- [Redmine Buch - Praxishandbuch](https://alphanodes.com/de/redmine-buch) - German (published 2022)
-- [Redmine Plugin Extension and Development](https://www.packtpub.com/product/redmine-plugin-extension-and-development/9781783288748) (published 2014)
+- [Konfigurationsmanagement mit Subversion, Maven und Redmine](https://dpunkt.de/produkt/konfigurationsmanagement-mit-subversion-maven-und-redmine/) (DE, published 2013)
+- [Mastering Redmine - Second Edition](https://www.packtpub.com/product/mastering-redmine-second-edition/9781785881305) (EN, published 2016)
+- [Redmine Cookbook](https://www.packtpub.com/product/redmine-cookbook/9781785286131) (EN, published 2016)
+- [Redmine Buch - Praxishandbuch](https://alphanodes.com/de/redmine-buch) - (DE, published 2022)
+- [Redmine Plugin Extension and Development](https://www.packtpub.com/product/redmine-plugin-extension-and-development/9781783288748) (EN, published 2014)
+- [Redmine - Gerenciamento flexível de projetos](https://www.casadocodigo.com.br/products/livro-redmine) (BR, published 2019)
 
 ## Contributing
 
