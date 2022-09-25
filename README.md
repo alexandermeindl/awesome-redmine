@@ -76,7 +76,7 @@ _Plugins, which are provided by companies and not downloadable without a license
 - [redmine_automation](https://alphanodes.com/redmine-automation) - Use rules and time schedules to automate routine tasks and optimize existing data volumes.
 - [redmine_checklists](https://www.redmineup.com/pages/plugins/checklists) - Simple, yet powerful checklists for issues.
 - [redmine_contacts](https://www.redmineup.com/pages/plugins/crm) - Contacts, accounts and deals management inside projects.
-- [redmine_contacts_helpdesk](https://www.redmineup.com/pages/plugins/helpdesk) - Management of Support tickets inside Issues.- 
+- [redmine_contacts_helpdesk](https://www.redmineup.com/pages/plugins/helpdesk) - Management of Support tickets inside Issues. 
 - [redmine_db](https://alphanodes.com/redmine-db) - Alternative for excel listings in order to catch up on project relevant information stored inside Redmine like technical information, contract 
 - [redmine_devops](https://alphanodes.com/redmine-devops) - DevOp tools connection to Redmine (supports GitLab, GitHub, Jenkins, Zabbix, third party Redmine systems).
 - [redmine_drive](https://www.redmineup.com/pages/plugins/drive) - Cloud file storage with sharing for clients and employees without authorization.
@@ -123,11 +123,13 @@ _Gems, which are used in plugins with Redmine specific functionalities. Used by 
 
 _Redmine hosting providers divided by country of origin._
 
-- [AlphaNodes](https://alphanodes.com/) - German based company offering Redmine managed application hosting (InHouse or Cloud).
-- [Redmine Hosting](https://www.redmine-hosting.de/) - German based company offering Redmine Hosting packages.
-- [RedmineUP](https://www.redmineup.com/) - Russian based Redmine company with offer Redmine cloud hosting.
+- [AlphaNodes](https://alphanodes.com/) - German based company offering Redmine managed application hosting (InHouse or Cloud). 
+- [A2](https://www.a2hosting.com/redmine-hosting) - American based hosting company with cloud packages also on Redmine.
 - [Docker: redmine](https://hub.docker.com/_/redmine)
 - [Docker: sameersbn/redmine](https://github.com/sameersbn/docker-redmine)
+- [Redmine Hosting](https://www.redmine-hosting.de/) - German based company offering Redmine Hosting packages.
+- [RedmineUP](https://www.redmineup.com/) - Russian based Redmine company with offer Redmine cloud hosting.
+- [RoseHosting](https://www.rosehosting.com/redmine-hosting/) - American based hosting company, offering Redmine cloud packages.
 
 ## Redmine based web services
 
