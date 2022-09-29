@@ -46,7 +46,7 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 
 - [additionals](https://github.com/alphanodes/additionals) - Redmine plugin for easy customization of settings, text and content display by using personal or role-based dashboards (drag&drop), providing wiki macros and act as library for other plugins.
 - [additional_tags](https://github.com/AlphaNodes/additional_tags) - Adding tags functionality to issues and wiki pages as well as entities of supported plugins.
-- [kanban](hhttps://github.com/happy-se-life/kanban) - Kanban plugin for redmine.
+- [kanban](https://github.com/happy-se-life/kanban) - Kanban plugin for redmine.
 - [mega_calendar](https://github.com/berti92/mega_calendar) - Brings a better calendar and more opportunities to display issues and holidays.
 - [redmine_banner](https://github.com/agileware-jp/redmine_banner) - Plugin for redmine to show site-wide banner message.
 - [redmine_custom_workflows](https://github.com/anteo/redmine_custom_workflows) - Allows to create custom workflows for Redmine.
@@ -75,6 +75,7 @@ _Plugins, which are not working with the latest stable Redmine version or have n
 
 - [redmine_git_hosting](https://github.com/jbox-web/redmine_git_hosting) - A Redmine plugin which makes configuring your own Git hosting easy.
 - [redmine_ldap_sync](https://github.com/tainewoo/redmine_ldap_sync) - A redmine plugin to synchronize both users and groups with an ldap server.
+- [scrum](https://redmine.ociotec.com/projects/redmine-plugin-scrum) - Plugin to manage Scrum projects with Redmine.
 
 ### Commercial Plugins
 
