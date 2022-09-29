@@ -46,6 +46,7 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 
 - [additionals](https://github.com/alphanodes/additionals) - Redmine plugin for easy customization of settings, text and content display by using personal or role-based dashboards (drag&drop), providing wiki macros and act as library for other plugins.
 - [additional_tags](https://github.com/AlphaNodes/additional_tags) - Adding tags functionality to issues and wiki pages as well as entities of supported plugins.
+- [issue_recurring](https://github.com/cryptogopher/issue_recurring) - Plugin for Redmine to schedule Redmine issue recurrence according to a schedule.
 - [kanban](https://github.com/happy-se-life/kanban) - Kanban plugin for redmine.
 - [mega_calendar](https://github.com/berti92/mega_calendar) - Brings a better calendar and more opportunities to display issues and holidays.
 - [redmine_banner](https://github.com/agileware-jp/redmine_banner) - Plugin for redmine to show site-wide banner message.
