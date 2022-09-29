@@ -58,6 +58,7 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [redmine_github_hook](https://github.com/koppen/redmine_github_hook) - Allow your Redmine installation to be notified when changes have been pushed to a Github repository.
 - [redmine_hedgedoc](https://github.com/AlphaNodes/redmine_hedgedoc) - HedgeDoc integration.
 - [redmine_helpdesk](https://github.com/jfqd/redmine_helpdesk) - Lightweight helpdesk plugin for redmine.
+- [redmine_issue_evm](https://github.com/momibun926/redmine_issue_evm) - This plugin provides the function of calculating evm of projects.
 - [redmine_issues_tree](https://github.com/Loriowar/redmine_issues_tree) - Provides a tree view of the Redmine issues list.
 - [redmine_issue_view_columns](https://github.com/AlphaNodes/redmine_issue_view_columns) - Redmine plugin to customize shown columns in subtasks and related issues on issue page.
 - [redmine_issue_template](https://github.com/agileware-jp/redmine_issue_templates) - Redmine Issue Template.
