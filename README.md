@@ -51,6 +51,7 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [mega_calendar](https://github.com/berti92/mega_calendar) - Brings a better calendar and more opportunities to display issues and holidays.
 - [redmine_banner](https://github.com/agileware-jp/redmine_banner) - Plugin for redmine to show site-wide banner message.
 - [redmine_custom_workflows](https://github.com/anteo/redmine_custom_workflows) - Allows to create custom workflows for Redmine.
+- [redmine_dark](https://github.com/fraoustin/redmine_dark) - Add dark theme for redmine (as plugin).
 - [redmine_dashboard](https://github.com/jgraichen/redmine_dashboard) - This redmine plugin adds an issue dashboard that supports drag and drop for issues and support various filters and groups.
 - [redmine_dmsf](https://github.com/danmunn/redmine_dmsf) - Redmine DMSF is Document Management System Features plugin for Redmine issue tracking system; It is aimed to replace current Redmine's Documents module.
 - [redmine_drawio](https://www.redmine.org/plugins/redmine_drawio) - Macro plugin to embed draw.io diagrams into Redmine wiki pages.
@@ -59,6 +60,7 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [redmine_github_hook](https://github.com/koppen/redmine_github_hook) - Allow your Redmine installation to be notified when changes have been pushed to a Github repository.
 - [redmine_hedgedoc](https://github.com/AlphaNodes/redmine_hedgedoc) - HedgeDoc integration.
 - [redmine_helpdesk](https://github.com/jfqd/redmine_helpdesk) - Lightweight helpdesk plugin for redmine.
+- [redmine_indicator](https://github.com/fraoustin/redmine_indicator) - Add block with main indicator on my page and project page.
 - [redmine_issue_evm](https://github.com/momibun926/redmine_issue_evm) - This plugin provides the function of calculating evm of projects.
 - [redmine_issues_tree](https://github.com/Loriowar/redmine_issues_tree) - Provides a tree view of the Redmine issues list.
 - [redmine_issue_view_columns](https://github.com/AlphaNodes/redmine_issue_view_columns) - Redmine plugin to customize shown columns in subtasks and related issues on issue page.
