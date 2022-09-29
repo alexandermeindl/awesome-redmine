@@ -68,6 +68,7 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [redmine_wktime](https://github.com/dhanasingh/redmine_wktime) - ERPmine is an open source free ERP for Service Industries.
 - [redmine_workload](https://github.com/xmera-circle/redmine_workload) - Calculate user workload over time.
 - [redmine_wysiwyg_editor](https://github.com/taqueci/redmine_wysiwyg_editor) - Redmine WYSIWYG Editor plugin.
+- [redmine_xlsx_format_issue_exporter](https://github.com/two-pack/redmine_xlsx_format_issue_exporter) - This is Redmine plugin which exports issue list to XLSX format file.
 - [view_customize](https://github.com/onozaty/redmine-view-customize) - View customize plugin for Redmine.
 
 ### Inactive Plugins
