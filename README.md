@@ -80,7 +80,6 @@ _Plugins, which are not working with the latest stable Redmine version or have n
 - [redmine_knowledgebase](https://github.com/alexbevi/redmine_knowledgebase) - A knowledgebase plugin for Redmine.
 - [scrum](https://redmine.ociotec.com/projects/redmine-plugin-scrum) - Plugin to manage Scrum projects with Redmine.
 
-
 ### Commercial Plugins
 
 _Plugins, which are provided by companies and not downloadable without a license or without login or without require an email address to download. Plugins without public code repository._
