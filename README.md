@@ -54,7 +54,7 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [redmine_dashboard](https://github.com/jgraichen/redmine_dashboard) - This redmine plugin adds an issue dashboard that supports drag and drop for issues and support various filters and groups.
 - [redmine_dmsf](https://github.com/danmunn/redmine_dmsf) - Redmine DMSF is Document Management System Features plugin for Redmine issue tracking system; It is aimed to replace current Redmine's Documents module.
 - [redmine_drawio](https://www.redmine.org/plugins/redmine_drawio) - Macro plugin to embed draw.io diagrams into Redmine wiki pages.
-- [redmine_env_auth](https://github.com/Intera/redmine_env_auth) - Request environment authentication plugin for redmine .
+- [redmine_env_auth](https://github.com/Intera/redmine_env_auth) - Request environment authentication plugin for redmine.
 - [redmine_extended_watchers](https://github.com/maxrossello/redmine_extended_watchers) - Grant additional issue and project view permissions to watcher users.
 - [redmine_github_hook](https://github.com/koppen/redmine_github_hook) - Allow your Redmine installation to be notified when changes have been pushed to a Github repository.
 - [redmine_hedgedoc](https://github.com/AlphaNodes/redmine_hedgedoc) - HedgeDoc integration.
@@ -101,7 +101,7 @@ _Plugins, which are provided by companies and not downloadable without a license
 - [redmine_hrm](https://alphanodes.com/redmine-hrm) - Resource planning and attendance management for flexible or agile project teams.
 - [redmine_outlook](https://www.redmine.org/plugins/redmine-outlook-addin) - This is deeply integrated addition for Microsoft Outlook that makes it possible to sync issues, projects, contacts and calendar, as well as to get quick access to attachments and messages on your Redmine account.
 - [redmine_passwords](https://alphanodes.com/redmine-passwords) - Centralized password management tool to manage and share sensitive data within project teams.
-- [redmine_questions](https://www.redmineup.com/pages/plugins/questions) - Create FAQ, Q&A, knowledge bases and idea reporting pages
+- [redmine_questions](https://www.redmineup.com/pages/plugins/questions) - Create FAQ, Q&A, knowledge bases and idea reporting pages.
 - [redmine_reporting](https://alphanodes.com/redmine-reporting) - Extended insights for decision makers, Stakeholder or project manager in order to monitor project relevant metrics like issue SLA, budget, mile stones etc.
 - [redmine_resources](https://www.redmineup.com/pages/plugins/resources) - Resource allocation management for Redmine.
 - [redmine_wiki_guide](https://alphanodes.com/redmine-wiki-guide) - Turn your Redmine Wiki into a perfect self-service portal.
@@ -134,7 +134,7 @@ _Themes, which are provided by companies and not downloadable without a license 
 
 _Gems, which are used in plugins with Redmine specific functionalities. Used by plugin developers._
 
-- [redmine_crm](https://rubygems.org/gems/redmine_crm/) - used by RedmineUP plugins
+- [redmine_crm](https://rubygems.org/gems/redmine_crm/) - Used by RedmineUP plugins.
 - [redmine_plugin_kit](https://rubygems.org/gems/redmine_plugin_kit) - Redmine base for plugin development including deface support.
 
 ## API wrapper
