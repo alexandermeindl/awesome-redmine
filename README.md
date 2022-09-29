@@ -71,7 +71,6 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [redmine_sudo](https://github.com/alphanodes/redmine_sudo) - Sudo for Redmine - work without administrator permission, and switch to it if needed.
 - [redmine_theme_changer](https://github.com/haru/redmine_theme_changer) - This is a plugin for Redmine which lets each user select theme of Redmine from account menu.
 - [redmine_wktime](https://github.com/dhanasingh/redmine_wktime) - ERPmine is an open source free ERP for Service Industries.
-- [redmine_workload](https://github.com/xmera-circle/redmine_workload) - Calculate user workload over time.
 - [redmine_wysiwyg_editor](https://github.com/taqueci/redmine_wysiwyg_editor) - Redmine WYSIWYG Editor plugin.
 - [redmine_xlsx_format_issue_exporter](https://github.com/two-pack/redmine_xlsx_format_issue_exporter) - This is Redmine plugin which exports issue list to XLSX format file.
 - [sidebar_hide](https://github.com/AlphaNodes/sidebar_hide) - Adds simple hide button for sidebar of Redmine.
@@ -84,6 +83,7 @@ _Plugins, which are not working with the latest stable Redmine version or have n
 - [redmine_git_hosting](https://github.com/jbox-web/redmine_git_hosting) - A Redmine plugin which makes configuring your own Git hosting easy.
 - [redmine_ldap_sync](https://github.com/tainewoo/redmine_ldap_sync) - A redmine plugin to synchronize both users and groups with an ldap server.
 - [redmine_knowledgebase](https://github.com/alexbevi/redmine_knowledgebase) - A knowledgebase plugin for Redmine.
+- [redmine_workload](https://github.com/xmera-circle/redmine_workload) - Calculate user workload over time.
 - [scrum](https://redmine.ociotec.com/projects/redmine-plugin-scrum) - Plugin to manage Scrum projects with Redmine.
 
 ### Commercial Plugins
