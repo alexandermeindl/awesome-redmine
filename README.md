@@ -53,6 +53,7 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [redmine_dashboard](https://github.com/jgraichen/redmine_dashboard) - This redmine plugin adds an issue dashboard that supports drag and drop for issues and support various filters and groups.
 - [redmine_dmsf](https://github.com/danmunn/redmine_dmsf) - Redmine DMSF is Document Management System Features plugin for Redmine issue tracking system; It is aimed to replace current Redmine's Documents module.
 - [redmine_drawio](https://www.redmine.org/plugins/redmine_drawio) - Macro plugin to embed draw.io diagrams into Redmine wiki pages.
+- [redmine_extended_watchers](https://github.com/maxrossello/redmine_extended_watchers) - Grant additional issue and project view permissions to watcher users.
 - [redmine_github_hook](https://github.com/koppen/redmine_github_hook) - Allow your Redmine installation to be notified when changes have been pushed to a Github repository.
 - [redmine_hedgedoc](https://github.com/AlphaNodes/redmine_hedgedoc) - HedgeDoc integration.
 - [redmine_helpdesk](https://github.com/jfqd/redmine_helpdesk) - Lightweight helpdesk plugin for redmine.
