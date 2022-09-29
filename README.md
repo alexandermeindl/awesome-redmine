@@ -66,6 +66,7 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [redmine_messenger](https://github.com/AlphaNodes/redmine_messenger) - Messenger plugin for Redmine with Slack, Discord, Rocket.Chat and Mattermost support.
 - [redmine_privacy_terms](https://github.com/alphanodes/redmine_privacy_terms) - Redmine plugin to add privacy cookie information and terms for users to Redmine.
 - [redmine_ref_issues](https://github.com/alphanodes/redmine_ref_issues) - Redmine wiki macro to list issues.
+- [redmine_saml](https://github.com/AlphaNodes/redmine_saml) - Redmine plugin that adds SAML authentication to Redmine.
 - [redmine_sudo](https://github.com/alphanodes/redmine_sudo) - Sudo for Redmine - work without administrator permission, and switch to it if needed.
 - [redmine_theme_changer](https://github.com/haru/redmine_theme_changer) - This is a plugin for Redmine which lets each user select theme of Redmine from account menu.
 - [redmine_wktime](https://github.com/dhanasingh/redmine_wktime) - ERPmine is an open source free ERP for Service Industries.
