@@ -75,7 +75,9 @@ _Plugins, which are not working with the latest stable Redmine version or have n
 
 - [redmine_git_hosting](https://github.com/jbox-web/redmine_git_hosting) - A Redmine plugin which makes configuring your own Git hosting easy.
 - [redmine_ldap_sync](https://github.com/tainewoo/redmine_ldap_sync) - A redmine plugin to synchronize both users and groups with an ldap server.
+- [redmine_knowledgebase](https://github.com/alexbevi/redmine_knowledgebase) - A knowledgebase plugin for Redmine.
 - [scrum](https://redmine.ociotec.com/projects/redmine-plugin-scrum) - Plugin to manage Scrum projects with Redmine.
+
 
 ### Commercial Plugins
 
