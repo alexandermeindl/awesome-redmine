@@ -69,6 +69,7 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [redmine_workload](https://github.com/xmera-circle/redmine_workload) - Calculate user workload over time.
 - [redmine_wysiwyg_editor](https://github.com/taqueci/redmine_wysiwyg_editor) - Redmine WYSIWYG Editor plugin.
 - [redmine_xlsx_format_issue_exporter](https://github.com/two-pack/redmine_xlsx_format_issue_exporter) - This is Redmine plugin which exports issue list to XLSX format file.
+- [sidebar_hide](https://github.com/AlphaNodes/sidebar_hide) - Adds simple hide button for sidebar of Redmine.
 - [view_customize](https://github.com/onozaty/redmine-view-customize) - View customize plugin for Redmine.
 
 ### Inactive Plugins
@@ -79,7 +80,6 @@ _Plugins, which are not working with the latest stable Redmine version or have n
 - [redmine_ldap_sync](https://github.com/tainewoo/redmine_ldap_sync) - A redmine plugin to synchronize both users and groups with an ldap server.
 - [redmine_knowledgebase](https://github.com/alexbevi/redmine_knowledgebase) - A knowledgebase plugin for Redmine.
 - [scrum](https://redmine.ociotec.com/projects/redmine-plugin-scrum) - Plugin to manage Scrum projects with Redmine.
-- [sidebar_hide](https://github.com/AlphaNodes/sidebar_hide) - Adds simple hide button for sidebar of Redmine.
 
 ### Commercial Plugins
 
