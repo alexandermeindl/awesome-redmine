@@ -8,7 +8,7 @@ Redmine is open source and released under the terms of the [GNU General Public L
 
 ## Contents
 
-- [Awesome Redmine ![Awesome](https://awesome.re)](#awesome-redmine-)
+- [Awesome Redmine   ](#awesome-redmine---)
   - [Contents](#contents)
   - [Official resources](#official-resources)
   - [Plugins](#plugins)
@@ -20,7 +20,7 @@ Redmine is open source and released under the terms of the [GNU General Public L
     - [Inactive Themes](#inactive-themes)
     - [Commercial Themes](#commercial-themes)
   - [Redmine Gems](#redmine-gems)
-  - [API wrapper](#api_wrapper)
+  - [API wrapper](#api-wrapper)
   - [Hosting](#hosting)
   - [Redmine based web services](#redmine-based-web-services)
   - [Books](#books)
@@ -49,19 +49,23 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [issue_recurring](https://github.com/cryptogopher/issue_recurring) - Plugin for Redmine to schedule Redmine issue recurrence according to a schedule.
 - [kanban](https://github.com/happy-se-life/kanban) - Kanban plugin for redmine.
 - [mega_calendar](https://github.com/berti92/mega_calendar) - Brings a better calendar and more opportunities to display issues and holidays.
+- [redmica_ui_extension](https://github.com/redmica/redmica_ui_extension) - This plugin adds useful UI improvements that are difficult to implement in Redmine itself.
 - [redmine_banner](https://github.com/agileware-jp/redmine_banner) - Plugin for redmine to show site-wide banner message.
 - [redmine_custom_workflows](https://github.com/anteo/redmine_custom_workflows) - Allows to create custom workflows for Redmine.
+- [redmine_collapsible_sidebar](https://github.com/AlphaNodes/redmine_collapsible_sidebar) -  Allow collapsable sidebar. Using local storage to remember status of the sidebar for each page
 - [redmine_dark](https://github.com/fraoustin/redmine_dark) - Add dark theme for redmine (as plugin).
 - [redmine_dashboard](https://github.com/jgraichen/redmine_dashboard) - This redmine plugin adds an issue dashboard that supports drag and drop for issues and support various filters and groups.
 - [redmine_dmsf](https://github.com/danmunn/redmine_dmsf) - Redmine DMSF is Document Management System Features plugin for Redmine issue tracking system; It is aimed to replace current Redmine's Documents module.
 - [redmine_drawio](https://www.redmine.org/plugins/redmine_drawio) - Macro plugin to embed draw.io diagrams into Redmine wiki pages.
 - [redmine_env_auth](https://github.com/Intera/redmine_env_auth) - Request environment authentication plugin for redmine.
 - [redmine_extended_watchers](https://github.com/maxrossello/redmine_extended_watchers) - Grant additional issue and project view permissions to watcher users.
+- [redmine_git_hosting](https://github.com/redmine-git-hosting/redmine_git_hosting) - A Redmine plugin which makes configuring your own Git hosting easy.
 - [redmine_github_hook](https://github.com/koppen/redmine_github_hook) - Allow your Redmine installation to be notified when changes have been pushed to a Github repository.
 - [redmine_hedgedoc](https://github.com/AlphaNodes/redmine_hedgedoc) - HedgeDoc integration.
 - [redmine_helpdesk](https://github.com/jfqd/redmine_helpdesk) - Lightweight helpdesk plugin for redmine.
 - [redmine_indicator](https://github.com/fraoustin/redmine_indicator) - Add block with main indicator on my page and project page.
 - [redmine_issue_evm](https://github.com/momibun926/redmine_issue_evm) - This plugin provides the function of calculating evm of projects.
+- [redmine_issues_panel](https://github.com/redmica/redmine_issues_panel) - This is a plugin for Redmine to display issues by statuses and change it's status by DnD.
 - [redmine_issues_tree](https://github.com/Loriowar/redmine_issues_tree) - Provides a tree view of the Redmine issues list.
 - [redmine_issue_view_columns](https://github.com/AlphaNodes/redmine_issue_view_columns) - Redmine plugin to customize shown columns in subtasks and related issues on issue page.
 - [redmine_issue_template](https://github.com/agileware-jp/redmine_issue_templates) - Redmine Issue Template.
@@ -76,17 +80,16 @@ _Plugins, which are working with the latest stable Redmine 5 version and under a
 - [redmine_wysiwyg_editor](https://github.com/taqueci/redmine_wysiwyg_editor) - Redmine WYSIWYG Editor plugin.
 - [redmine_xlsx_format_issue_exporter](https://github.com/two-pack/redmine_xlsx_format_issue_exporter) - This is Redmine plugin which exports issue list to XLSX format file.
 - [sidebar_hide](https://github.com/AlphaNodes/sidebar_hide) - Adds simple hide button for sidebar of Redmine.
+- [scrum](https://redmine.ociotec.com/projects/redmine-plugin-scrum) - Plugin to manage Scrum projects with Redmine.
 - [view_customize](https://github.com/onozaty/redmine-view-customize) - View customize plugin for Redmine.
 
 ### Inactive Plugins
 
 _Plugins, which are not working with the latest stable Redmine version or have not been updated in the last year._
 
-- [redmine_git_hosting](https://github.com/jbox-web/redmine_git_hosting) - A Redmine plugin which makes configuring your own Git hosting easy.
 - [redmine_ldap_sync](https://github.com/tainewoo/redmine_ldap_sync) - A redmine plugin to synchronize both users and groups with an ldap server.
 - [redmine_knowledgebase](https://github.com/alexbevi/redmine_knowledgebase) - A knowledgebase plugin for Redmine.
 - [redmine_workload](https://github.com/xmera-circle/redmine_workload) - Calculate user workload over time.
-- [scrum](https://redmine.ociotec.com/projects/redmine-plugin-scrum) - Plugin to manage Scrum projects with Redmine.
 
 ### Commercial Plugins
 
@@ -114,6 +117,7 @@ _Plugins, which are provided by companies and not downloadable without a license
 
 _Themes, which are working with the latest stable Redmine 5 version and under active development._
 
+- [Bleuclair](https://github.com/farend/redmine_theme_farend_bleuclair) - farend bleuclair theme
 - [redmine-theme-minimalflat2](https://github.com/akabekobeko/redmine-theme-minimalflat2) - Minimal and flat theme for Redmine.
 
 ### Inactive Themes
