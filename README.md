@@ -8,7 +8,7 @@ Redmine is open source and released under the terms of the [GNU General Public L
 
 ## Contents
 
-- [Awesome Redmine   ](#awesome-redmine---)
+- [Awesome Redmine ![Awesome](https://awesome.re)](#awesome-redmine-)
   - [Contents](#contents)
   - [Official resources](#official-resources)
   - [Plugins](#plugins)
